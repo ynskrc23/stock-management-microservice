@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/EurekaServer/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/EurekaServer/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stock-management.iml" filepath="$PROJECT_DIR$/.idea/stock-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-edge-server/zuul-edge-server.iml" filepath="$PROJECT_DIR$/zuul-edge-server/zuul-edge-server.iml" />
+    </modules>
+  </component>
+</project>
